@@ -1,0 +1,29 @@
+{
+  "args": {},
+  "data": {
+    "nombre": "jair",
+    "email": "yhao@gmail.com",
+    "cel": "31327754"
+  },
+  "files": {},
+  "form": {},
+  "headers": {
+    "x-forwarded-proto": "https",
+    "x-forwarded-port": "443",
+    "host": "postman-echo.com",
+    "x-amzn-trace-id": "Root=1-6507b324-723d48c92ce6e45a37eace8b",
+    "content-length": "130",
+    "content-type": "application/json",
+    "user-agent": "PostmanRuntime/7.33.0",
+    "accept": "*/*",
+    "postman-token": "c006c2ad-dfde-4089-9075-cd27b107c581",
+    "accept-encoding": "gzip, deflate, br",
+    "cookie": "sails.sid=s%3AJb8oJqn01HnaiFGITQ1tmADRt8GbB-Qi.Lkjlm9MSvw%2BFybx6%2BpRal%2B14QLIVJ3VS6VBBTN0zYhY"
+  },
+  "json": {
+    "nombre": "jair",
+    "email": "yhao@gmail.com",
+    "cel": "31327754"
+  },
+  "url": "https://postman-echo.com/post"
+}
